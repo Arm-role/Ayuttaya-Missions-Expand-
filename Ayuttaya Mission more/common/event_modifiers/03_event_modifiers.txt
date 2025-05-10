@@ -1,0 +1,7 @@
+buddhism_combined_bonus_mod = {
+    tolerance_heretic = 1
+	development_cost = -0.1
+	diplomats = 1
+	land_morale = 0.05
+	idea_cost = -0.05
+}
